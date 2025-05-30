@@ -1,3 +1,5 @@
+import sirImg from '../assets/sir.jpg';
+
 const Mentor = () => {
   return (
     <section className="bg-gradient-to-br from-[#1a1a2e] via-[#4a2b7a] to-[#6b3fa0] py-16 px-6">
@@ -6,7 +8,7 @@ const Mentor = () => {
         {/* Image */}
         <div className="flex-shrink-0">
           <img
-            src="src\assets\sir.jpg"
+            src={sirImg}
             alt="Mr. Ali Sher Kashif"
             className="w-[300px] md:w-[350px] rounded-2xl shadow-lg border-4 border-purple-400 hover:scale-105 transition-transform duration-300"
           />
