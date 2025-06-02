@@ -73,7 +73,7 @@ const ContactSection: React.FC = () => {
               <h3 className="text-2xl font-bold text-white mb-6">Send Us a Message</h3>
               <div className="w-full aspect-[4/3]">
                 <iframe 
-                  src="https://forms.gle/TaSTXiC7kUqNiFnQA?embedded=true"
+                  src="https://forms.gle/yVeBfz47gp1Tm7NeA"
                   className="w-full h-full rounded-lg"
                   frameBorder="0"
                   marginHeight={0}
